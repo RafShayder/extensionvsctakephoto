@@ -1,6 +1,7 @@
 {
   "name": "phototakerv2",
   "displayName": "phototakerv2",
+  "publisher": "RAF SHAYDER LEON GUTIERREZ",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -49,5 +50,9 @@
   "dependencies": {
     "clipboardy": "^4.0.0",
     "puppeteer": "^22.10.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RafShayder/extensionvsctakephoto.git"
+}
 }
